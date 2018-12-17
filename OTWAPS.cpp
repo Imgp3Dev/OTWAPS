@@ -83,7 +83,7 @@ string username = "bandit3";
 string password = "UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK";
 
 ssh_options_set(my_ssh_session,
-SSH_OPTIONS_HOST,"bandit2.labs.overthewire.org",
+SSH_OPTIONS_HOST,"bandit3.labs.overthewire.org",
 &host);
 ssh_options_set(my_ssh_session,SSH_OPTIONS_LOG_VER$
 &verbosity);
